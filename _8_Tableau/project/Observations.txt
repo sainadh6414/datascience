@@ -1,0 +1,21 @@
+Observations:
+1. Claims filed in Urban cities is much higher than rural areas.
+2. Claim frequency, Total claims and current claim will reduce as the age of the car increases.
+3. Company had less total loss cases as never Claim has met the Bluebook value of the car.
+4. Female customers have filed more claims than the Male customers.
+5. Customers with too may driving kids have claimed more.
+6. Age and Income of customer has no impact on the claims filed.
+7. Blue Collar customers are the major claimed customers.
+8. Doctors are the least claimed customers.
+
+Recommendations:
+1. Insurance premium of Urban city customer should be higher than the Rural city customer as the claim frequency is higher side for an Urban city customer.
+2. Insurance premium can be higher for the initial years as the claim frequency is also hight.
+3. Insurance premium offers can be provided for the aged cars as they do not claim insurance and this money will be a saving for the company.
+4. Female customers can be offered a different premium as they tend to claim more than male counterparts.
+5. Customers with eligible driving aged kids should be charged more as they tend to cause more claims for their car.
+6. Blue Collar customers can be charged premium over others as they claim more, however we can provide offers for Docotors as they would not claim the insurance and premium will be a saving for the company.
+7. Un married individuals have less claims in comparison to Married, more offers can be targetted to increase sales and profit of insurance policies.
+
+Conclusion:
+Insurance premiums decided on Profession, Sex, Marital Status, Location and Number of Kids will fetch more Profits to the Insurer.
