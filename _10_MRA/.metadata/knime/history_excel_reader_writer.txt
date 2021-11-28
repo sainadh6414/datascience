@@ -1,0 +1,10 @@
+D:\$edu\datascience\_10_MRA\project2\Sai Komaravolu MBA Result.xlsx
+D:\$edu\datascience\_10_MRA\project2\dataset_group.csv
+D:\$edu\datascience\_10_MRA\week2\Newitems.xlsx
+D:\$edu\datascience\_10_MRA\week2\masterdata.xlsx
+D:\$edu\datascience\_10_MRA\week2\Transactional_Data.xlsx
+D:\$edu\datascience\_10_MRA\week1\Practice_Ship.xlsx
+D:\$edu\datascience\_10_MRA\project1\RFM_Analysis_Sai_Komaravolu.xlsx
+D:\$edu\datascience\_10_MRA\project1\Sales_Data.xlsx
+D:\$edu\datascience\_10_MRA\week1\world_tourism_Labeled_input_output_of_kmeans.xlsx
+D:\$edu\datascience\_10_MRA\week1\Labeled_input_output_of_kmeans.xlsx
